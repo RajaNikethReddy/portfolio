@@ -1,0 +1,140 @@
+div {}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100%;
+}
+
+p {
+  line-height: 2
+}
+
+.about-me {
+  position: relative;
+  top: 6px;
+}
+
+hr {
+  border: dotted 6px #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  border: 100px auto;
+}
+
+h1 {
+  margin-top: 0px;
+  position: relative;
+  top: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.375rem;
+  padding-top: 50px;
+  color: #66BFBF;
+  line-height: 2;
+}
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.topcontainer {
+  margin-bottom: 100px;
+  padding-top: 220px;
+  position: relative;
+  background-color: #D6EFED;
+}
+
+.middlecontainer {}
+
+.mountain {
+  position: relative;
+  top: 500px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  border-top: 10px;
+  padding: 10px 15px 20px;
+}
+
+.bottom2conainer {}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.chilles {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilles2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.btn {
+  background: linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+  background-color: #11999E;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  padding: 11px 23px;
+  text-decoration: none;
+  margin-bottom: 35px;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #8FCFD1 5%, #8FCFD1 100%);
+  background-color: #8FCFD1;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-up {
+  margin-bottom: 50px;
+}
